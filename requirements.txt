@@ -1,0 +1,8 @@
+ocpp==2.1.0
+websockets==16.0
+pydantic==2.12.5
+pydantic-settings==2.13.1
+pydantic_core==2.41.5
+python-json-logger==4.0.0
+jsonschema==4.26.0
+jsonschema-specifications==2025.9.1
