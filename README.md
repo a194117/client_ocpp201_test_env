@@ -1,18 +1,18 @@
 # OCPP Test Environment
 
-Ambiente para simulação de um cliente OCPP 1.6 e testes de transações com o servidor SteVe.
+Ambiente para simulação de um cliente OCPP 2.0.1 e testes de transações com o servidor CitrineOS.
 
 ## Pré-requisitos
 
 - Python 3.10+
-- Servidor SteVe rodando em `localhost:8080` (ou configurado via `.env`)
+- CSMS Opnesouce CitrineOS
 - WSL (opcional, para executar scripts shell)
 
 ## Instalação
 
 ```bash
-git clone https://github.com/a194117/client_ocpp16_test_env.git
-cd client_ocpp16_test_env
+git clone https://github.com/a194117/client_ocpp201_test_env.git
+cd client_ocpp201_test_env
 python3 -m venv venv
 source venv/bin/activate  
 pip install -r requirements.txt
