@@ -5,7 +5,7 @@ Ambiente para simulação de um cliente OCPP 2.0.1 e testes de transações com 
 ## Pré-requisitos
 
 - Python 3.10+
-- CSMS Opnesouce CitrineOS
+- Container ativo do servidor CitrineOS
 - WSL (opcional, para executar scripts shell)
 
 ## Instalação
